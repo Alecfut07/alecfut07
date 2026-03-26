@@ -4,7 +4,7 @@ Fullstack developer from San Diego, CA.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alec-ortega/)](https://www.linkedin.com/in/alec-ortega/)
 
-<details>
+<details open>
   <summary><b>🛠️ Languages and Tools</b></summary>
   <br/>
 
