@@ -1,4 +1,8 @@
-## Hi! Nice to see you. 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Alec+Ortega+Cisneros....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 Fullstack developer from San Diego, CA.
 
