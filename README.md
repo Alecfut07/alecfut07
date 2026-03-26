@@ -10,7 +10,7 @@ Fullstack developer from San Diego, CA.
   <a href="https://www.linkedin.com/in/alec-ortega/" 
      target="_blank" 
      rel="noopener noreferrer"
-     title="LinkedIn">
+     title="LinkedIn - Alec Ortega">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
          alt="LinkedIn - Alec Ortega" 
          width="40" 
