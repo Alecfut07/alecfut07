@@ -3,25 +3,27 @@
 Fullstack developer from San Diego, CA.
 
 <p align="left">
+  🔗 <b>Connect with me</b> &nbsp;
+
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/alec-ortega/" 
      target="_blank" 
      rel="noopener noreferrer"
-     title="LinkedIn - Alec Ortega">
+     title="LinkedIn">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         alt="LinkedIn - Alec Ortega" 
-         width="40" 
+         alt="LinkedIn" 
+         width="30" 
          height="30"/>
   </a>
 
-  <!-- Gmail -->
+  <!-- Gmail (Colorful) -->
   <a href="mailto:alec.ortega.cisneros@gmail.com" 
      target="_blank" 
      rel="noopener noreferrer"
      title="Send me an email">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" 
-         alt="Email - Alec Ortega" 
-         width="40" 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" 
+         alt="Gmail" 
+         width="30" 
          height="30"/>
   </a>
 </p>
