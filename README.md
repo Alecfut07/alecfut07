@@ -4,7 +4,14 @@
   </a>
 </h1>
 
-Fullstack developer from San Diego, CA.
+<h2 align="center">👋 About Me</h2>
+
+<p align="center">
+  Hi! I'm <b>Alec Ortega Cisneros</b> from <b>San Diego, CA, USA</b>.  
+  I'm a passionate software developer who loves building web applications, learning new technologies, and solving challenging problems.  
+  My expertise includes <b>C#, C++, JavaScript, Python, React, .NET, SQL Server, PostgreSQL</b>, and more.  
+  When I'm not coding, I enjoy reading, exploring new tech, and improving my skills every day.
+</p>
 
 <p align="left">
   🔗 <b>Connect with me</b> &nbsp;
