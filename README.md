@@ -2,7 +2,15 @@
 
 Fullstack developer from San Diego, CA.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alec-ortega/)](https://www.linkedin.com/in/alec-ortega/)
+<p>
+  🔗 <b>Connect with me</b>
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/alec-ortega/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Alec Ortega" width="40" height="30"/>
+  </a>
+</p>
 
 <details open>
   <summary><b>🛠️ Languages and Tools</b></summary>
